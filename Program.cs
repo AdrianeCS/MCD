@@ -1,6 +1,6 @@
 ﻿int dividendo, divisor, resto;
 
-Console.WriteLine("máximo divisor comun (método iterativo\n");
+Console.WriteLine("máximo divisor comum (método iterativo\n");
 
 Console.Write("digite o primeiro numero (a)...: ");
 dividendo = Convert.ToInt32(Console.ReadLine());
